@@ -2,6 +2,10 @@
 
 Responsive React website for NAS Internet, built with Vite. It includes the home, services, about, and contact pages, plus detailed pages for each service.
 
+## Live Demo 🚀
+Check out the live demo: [LIVE DEMO](https://nasinternet.com/)
+
+
 ## Requirements
 
 - Node.js `^20.19.0` or `>=22.12.0`
